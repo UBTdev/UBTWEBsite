@@ -218,7 +218,7 @@ html, body {
 .header__main {}
 
 .header__background {
-  background-image: url('/img/header/BGimage.svg');
+  background-image: url(img/header/BGimage.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
